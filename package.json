@@ -1,0 +1,29 @@
+{
+  "name": "google-map-free",
+  "version": "1.0.0",
+  "description": "Google map free using iframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshossen/google-map-free.git"
+  },
+  "keywords": [
+    "google",
+    "map",
+    "free",
+    "map",
+    "view",
+    "react",
+    "npm",
+    "yarn"
+  ],
+  "author": "Jakir Hossen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jshossen/google-map-free/issues"
+  },
+  "homepage": "https://github.com/jshossen/google-map-free#readme"
+}
